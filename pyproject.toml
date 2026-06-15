@@ -1,0 +1,17 @@
+[project]
+name = "ai-powered-meeting-planning-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "faiss-cpu>=1.13.2",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.10",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+    "langchain-huggingface>=1.2.0",
+    "sentence-transformers>=5.2.3",
+    "streamlit>=1.54.0",
+]
