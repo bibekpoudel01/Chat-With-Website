@@ -82,6 +82,6 @@ beautifulsoup4
 4. **Retrieval**: On each user query, the most relevant chunks are retrieved from the vector store.
 5. **Generation**: The retrieved context, chat history, and user query are passed to the Groq LLM to generate a response.
 
-## License
+ License
 
 This project is licensed under the MIT License.
